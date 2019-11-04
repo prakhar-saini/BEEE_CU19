@@ -1,1 +1,0 @@
-NIGHT_LAMP
